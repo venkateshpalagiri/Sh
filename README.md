@@ -1,3 +1,10 @@
+# CloudGateway
+## URL
+### Server.Port: http://localhost:9090/
+### Eureka: http://localhost:9090/
+### Swagger/OpenAPI: http://localhost:9090/swagger-ui/index.html
+### Zipkin: http://localhost:9411/zipkin/
+
 # ServiceRegistry
 ## URL:
 ### Server.Port: http://localhost:8761/
