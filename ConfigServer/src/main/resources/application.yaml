@@ -10,6 +10,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/venkateshpalagiri/Shopping/microservice-config
-#          uri: https://github.com/venkateshpalagiri/microservice-config
+          uri: https://github.com/venkateshpalagiri/microservice-config
           clone-on-start: true

@@ -10,7 +10,7 @@
 ### Server.Port: http://localhost:8761/
 ### Eureka: http://localhost:8761/
 ### Swagger/OpenAPI: http://localhost:8761/swagger-ui/index.html
-### Zipkin: http://localhost:9411/zipkin/   <!-- docker run -d -p 9411:9411 openzipkin/zipkin -->
+### Zipkin: http://localhost:9411/zipkin/   //<!-- docker run -d -p 9411:9411 openzipkin/zipkin -->
 <!-- docker start CONTAINER-ID // docker stop CONTAINER-ID -->
 
 # ConfigServer
